@@ -539,7 +539,9 @@ This project is open-source. Refer to the LICENSE file for details.
 
 ## 👤 Author
 
-**Binupa Perera**
+**Binupa Ariyarathna**
+**Vinuji Perera**
+**Lithasha Abayarathna**
 
 ---
 
